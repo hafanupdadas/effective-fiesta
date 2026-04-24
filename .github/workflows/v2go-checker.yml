@@ -1,8 +1,8 @@
-name: V2Go Checker (Xray-core Binary)
+name: Namira Batch Checker
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # Каждые 3 часа
+    - cron: '0 */6 * * *'  # Каждые 6 часов
   workflow_dispatch:  # Ручной запуск
 
 jobs:
@@ -15,18 +15,38 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       
-      - name: Download GeoIP Database
+      - name: Check Binary
         run: |
-          echo "📥 Downloading GeoIP database..."
-          wget -q https://raw.githubusercontent.com/6Kmfi6HP/maxmind/main/GeoLite2-Country.mmdb
-          ls -lh GeoLite2-Country.mmdb
+          echo "🔍 Checking for binary..."
+          if [ ! -f namira-batch-checker ]; then
+            echo "❌ namira-batch-checker not found!"
+            echo "Please build and commit the binary first"
+            exit 1
+          fi
+          ls -lh namira-batch-checker
+          file namira-batch-checker
       
-      - name: Run V2Go Checker
+      - name: Check Subscriptions
         run: |
-          echo "🚀 Starting V2Go Checker with Xray-core..."
-          chmod +x scripts/v2go-checker
-          ./scripts/v2go-checker
-        timeout-minutes: 30
+          echo "📋 Checking subscriptions.txt..."
+          if [ ! -f subscriptions.txt ]; then
+            echo "⚠️  subscriptions.txt not found, creating default..."
+            cat > subscriptions.txt << 'EOF'
+# Default subscriptions
+https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
+https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link
+EOF
+          fi
+          echo "Subscriptions:"
+          cat subscriptions.txt | grep -v "^#" | grep -v "^$"
+      
+      - name: Run Namira Batch Checker
+        run: |
+          echo "🚀 Starting Namira Batch Checker..."
+          chmod +x namira-batch-checker
+          ./namira-batch-checker batch --subscriptions subscriptions.txt --concurrent 300 --timeout 15s
+        timeout-minutes: 45
       
       - name: Check Results
         run: |
