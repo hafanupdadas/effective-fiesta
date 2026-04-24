@@ -18,13 +18,13 @@ jobs:
       - name: Check Binary
         run: |
           echo "🔍 Checking for binary..."
-          if [ ! -f namira-batch-checker ]; then
-            echo "❌ namira-batch-checker not found!"
+          if [ ! -f scripts/namira-batch-checker ]; then
+            echo "❌ scripts/namira-batch-checker not found!"
             echo "Please build and commit the binary first"
             exit 1
           fi
-          ls -lh namira-batch-checker
-          file namira-batch-checker
+          ls -lh scripts/namira-batch-checker
+          file scripts/namira-batch-checker
       
       - name: Check Subscriptions
         run: |
@@ -44,8 +44,8 @@ jobs:
       - name: Run Namira Batch Checker
         run: |
           echo "🚀 Starting Namira Batch Checker..."
-          chmod +x namira-batch-checker
-          ./namira-batch-checker batch --subscriptions subscriptions.txt --concurrent 300 --timeout 15s
+          chmod +x scripts/namira-batch-checker
+          ./scripts/namira-batch-checker batch --subscriptions subscriptions.txt --concurrent 300 --timeout 15s
         timeout-minutes: 45
       
       - name: Check Results
