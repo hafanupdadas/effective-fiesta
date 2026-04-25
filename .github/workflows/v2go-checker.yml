@@ -85,15 +85,3 @@ jobs:
             git push
             echo "✅ Changes pushed successfully"
           fi
-      
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: vpn-check-results
-          path: |
-            vpn*.txt
-            bobi_vpn*.txt
-            vpn_report.json
-            countries/
-          retention-days: 7
