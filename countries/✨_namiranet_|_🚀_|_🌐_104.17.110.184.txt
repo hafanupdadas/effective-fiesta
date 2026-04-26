@@ -1,3 +1,10 @@
+#profile-update-interval: 1
+#profile-title: base64:8J+MjSBCb2JpVlBOIOKcqCBOYW1pcmFOZXQgfCDwn5qAIHwg8J+MkCAxMDQuMTcuMTEwLjE4NA==
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://github.com/NamiraNet/namira-core
+#profile-web-page-url: https://github.com/NamiraNet/namira-core
+#announce: base64:4pqhIDIwODkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+
 vless://d437d353-4ca9-4c31-8295-33b3ba8ee42f@104.17.110.184:443?security=tls&encryption=none&headerType=none&type=tcp&sni=sahah.temas-arvha.ir#🌍 ✨ NamiraNet | 🚀 | 🌐 104.17.110.184 | Server 1
 trojan://m4P3RHFI7K@104.16.80.73:8443?sni=f3.zero-trust.click&peer=f3.zero-trust.click&security=tls#🌍 ✨ NamiraNet | 🛡️ | 🌐 104.16.80.73 | Server 2
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443/?type=tcp&security=tls&sni=icecream.955850.xyz#🌍 ✨ NamiraNet | 🛡️ | 🌐 217.163.76.254 | Server 3
