@@ -1,5 +1,5 @@
 #profile-update-interval: 1
-#profile-title: base64:8J+QtkJvYmlWUE7wn5C2
+#profile-title: base64:8J+MjSBCb2JpVlBOIOKcqCBOYW1pcmFOZXQgfCDwn5SSIHwg8J+MkCAxNTYuMTQ2LjM4LjE2OA==
 #subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
 #support-url: https://github.com/NamiraNet/namira-core
 #profile-web-page-url: https://github.com/NamiraNet/namira-core
