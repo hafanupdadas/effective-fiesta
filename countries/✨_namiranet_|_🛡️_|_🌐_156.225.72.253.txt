@@ -1,3 +1,10 @@
+#profile-update-interval: 1
+#profile-title: base64:8J+MjSBCb2JpVlBOIOKcqCBOYW1pcmFOZXQgfCDwn5uh77iPIHwg8J+MkCAxNTYuMjI1LjcyLjI1Mw==
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://github.com/NamiraNet/namira-core
+#profile-web-page-url: https://github.com/NamiraNet/namira-core
+#announce: base64:4pqhIDIwOTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+
 trojan://8r%3C%5B9%27l6hAO%238ZQi@156.225.72.253:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#🌍 ✨ NamiraNet | 🛡️ | 🌐 156.225.72.253 | Server 1
 trojan://8r%3C%5B9%27l6hAO%238ZQi@185.148.105.253:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#🌍 ✨ NamiraNet | 🛡️ | 🌐 185.148.105.253 | Server 2
 trojan://humanity@104.20.6.134:443?host=www.ignitelimit.com&amp%3Bpath=/assignment&amp%3Bsni=www.ignitelimit.com&amp%3Btype=ws#🌍 ✨ NamiraNet | 🛡️ | 🌐 104.20.6.134 | Server 3
