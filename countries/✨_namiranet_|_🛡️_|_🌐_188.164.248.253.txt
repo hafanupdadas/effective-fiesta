@@ -1,3 +1,10 @@
+#profile-update-interval: 1
+#profile-title: base64:8J+MjSBCb2JpVlBOIOKcqCBOYW1pcmFOZXQgfCDwn5uh77iPIHwg8J+MkCAxODguMTY0LjI0OC4yNTM=
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://github.com/NamiraNet/namira-core
+#profile-web-page-url: https://github.com/NamiraNet/namira-core
+#announce: base64:4pqhIDIwNzgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+
 trojan://8r%3C%5B9%27l6hAO%238ZQi@188.164.248.253:443?sni=Koma-YT.PAGeS.Dev&peer=Koma-YT.PAGeS.Dev&security=tls#🌍 ✨ NamiraNet | 🛡️ | 🌐 188.164.248.253 | Server 1
 trojan://bpb-trojan@45.131.209.114:443/?type=tcp&security=tls&sni=bpb.my79801.com#🌍 ✨ NamiraNet | 🛡️ | 🌐 45.131.209.114 | Server 2
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443/?type=tcp&security=tls&sni=icecream.955850.xyz#🌍 ✨ NamiraNet | 🛡️ | 🌐 212.183.88.172 | Server 3
