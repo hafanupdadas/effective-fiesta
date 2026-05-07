@@ -1,3 +1,10 @@
+#profile-update-interval: 1
+#profile-title: base64:8J+MjSBCb2JpVlBOIOKcqCBOYW1pcmFOZXQgfCDwn5uh77iPIHwg8J+MkCAxNzIuNjcuMTU5LjEz
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://github.com/NamiraNet/namira-core
+#profile-web-page-url: https://github.com/NamiraNet/namira-core
+#announce: base64:4pqhIDIxMzgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+
 trojan://0b971bb0-f0af-11ee-8f57-1239d0255272@172.67.159.13:443/?type=tcp&security=tls&sni=uk1.test3.net#🌍 ✨ NamiraNet | 🛡️ | 🌐 172.67.159.13 | Server 1
 trojan://humanity@162.159.17.189:443?allowInsecure=0&sni=www.multiplydose.com&ws=1&wspath=%2Fassignment#🌍 ✨ NamiraNet | 🛡️ | 🌐 162.159.17.189 | Server 2
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?sni=Koma-YT.PAGeS.Dev#🌍 ✨ NamiraNet | 🛡️ | 🌐 172.66.44.230 | Server 3
