@@ -1,3 +1,10 @@
+#profile-update-interval: 1
+#profile-title: base64:8J+MjSBCb2JpVlBOIOKcqCBOYW1pcmFOZXQgfCDwn5uh77iPIHwg8J+MkCAxNzIuNjYuNDQuMjMw
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://github.com/NamiraNet/namira-core
+#profile-web-page-url: https://github.com/NamiraNet/namira-core
+#announce: base64:4pqhIDIxMzkg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🌍 ✨ NamiraNet | 🛡️ | 🌐 172.66.44.230 | Server 1
 vless://Telegram-Parsashonam@jobset.sigs.k8s.io:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp&sni=jobset.sigs.k8s.io#🌍 ✨ NamiraNet | 🚀 | 🌐 jobset.sigs.k8s.io | Server 2
 vless://c0938841-1b6e-47a3-ad26-e795e0f7aeb2@chatgpt.com:2096?security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn5.tehrancloud.net#🌍 ✨ NamiraNet | 🚀 | 🌐 chatgpt.com | Server 3
