@@ -1,3 +1,10 @@
+#profile-update-interval: 1
+#profile-title: base64:8J+MjSBCb2JpVlBOIOKcqCBOYW1pcmFOZXQgfCDwn5uh77iPIHwg8J+MkCAxODUuMjM4LjIyOC42
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://github.com/NamiraNet/namira-core
+#profile-web-page-url: https://github.com/NamiraNet/namira-core
+#announce: base64:4pqhIDIxOTEg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+
 trojan://bpb-trojan@185.238.228.6:443/?type=tcp&security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv#🌍 ✨ NamiraNet | 🛡️ | 🌐 185.238.228.6 | Server 1
 trojan://63752727-d49d-4975-a741-485ca9f4d995@141.193.213.107:443?allowInsecure=0&sni=31eacogyh9.bpsg2026.top&ws=1&wspath=%2Fimages#🌍 ✨ NamiraNet | 🛡️ | 🌐 141.193.213.107 | Server 2
 trojan://63752727-d49d-4975-a741-485ca9f4d995@104.19.174.68:443?sni=px8r9i1b4k.bpusfaster2.top#🌍 ✨ NamiraNet | 🛡️ | 🌐 104.19.174.68 | Server 3
