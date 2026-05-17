@@ -1,10 +1,10 @@
 {
-  "avg_latency_ms": 1026,
+  "avg_latency_ms": 1179,
   "countries": {
-    "XX": 2071
+    "XX": 2115
   },
   "description": "Checked with Namira Core engine",
   "name": "🐶 Bobi VPN (Namira Core)",
-  "timestamp": "2026-05-17 03:44:35",
-  "working_count": 2071
+  "timestamp": "2026-05-17 08:33:42",
+  "working_count": 2115
 }
