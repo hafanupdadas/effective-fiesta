@@ -1,3 +1,10 @@
+#profile-update-interval: 1
+#profile-title: base64:8J+MjSBCb2JpVlBOIOKcqCBOYW1pcmFOZXQgfCDwn5uh77iPIHwg8J+MkCAxNTYuMjI1LjcyLjI1
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://github.com/NamiraNet/namira-core
+#profile-web-page-url: https://github.com/NamiraNet/namira-core
+#announce: base64:4pqhIDE3ODgg0L/RgNC+0LLQtdGA0LXQvdC90YvRhSDRgdC10YDQstC10YDQvtCy
+
 trojan://8r%3C%5B9%27l6hAO%238ZQi@156.225.72.25:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2#🌍 ✨ NamiraNet | 🛡️ | 🌐 156.225.72.25 | Server 1
 trojan://8r%3C%5B9%27l6hAO%238ZQi@43.169.18.179:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2#🌍 ✨ NamiraNet | 🛡️ | 🌐 43.169.18.179 | Server 2
 trojan://8r%3C%5B9%27l6hAO%238ZQi@162.251.82.253:443?sni=Koma-YT.PAGeS.Dev#🌍 ✨ NamiraNet | 🛡️ | 🌐 162.251.82.253 | Server 3
