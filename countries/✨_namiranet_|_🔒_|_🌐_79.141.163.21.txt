@@ -1,3 +1,10 @@
+#profile-update-interval: 1
+#profile-title: base64:8J+MjSBCb2JpVlBOIOKcqCBOYW1pcmFOZXQgfCDwn5SSIHwg8J+MkCA3OS4xNDEuMTYzLjIx
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://github.com/NamiraNet/namira-core
+#profile-web-page-url: https://github.com/NamiraNet/namira-core
+#announce: base64:4pqhIDQ2OSDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0THdqTnhaRWFNRHNUMjZ4S2pjTm1v@79.141.163.21:4668#🌍 ✨ NamiraNet | 🔒 | 🌐 79.141.163.21 | Server 1
 vless://c0938841-1b6e-47a3-ad26-e795e0f7aeb2@chatgpt.com:2096?security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn5.tehrancloud.net#🌍 ✨ NamiraNet | 🚀 | 🌐 chatgpt.com | Server 2
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&amp%3Btype=ws&amp%3BheaderType=none&amp%3Bpath=%252Fhowdy&amp%3Bsni=de1.test3.net&amp%3Bhost=de1.test3.net#🌍 ✨ NamiraNet | 🛡️ | 🌐 chatbuzzteambhm.chatbuzzt7150.workers.dev | Server 3
