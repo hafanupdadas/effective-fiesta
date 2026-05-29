@@ -1,3 +1,10 @@
+#profile-update-interval: 1
+#profile-title: base64:8J+MjSBCb2JpVlBOIOKcqCBOYW1pcmFOZXQgfCDwn5uh77iPIHwg8J+MkCAxNzMuMjQ1LjU4LjU3
+#subscription-userinfo: upload=0; download=0; total=107374182400; expire=1798761600
+#support-url: https://github.com/NamiraNet/namira-core
+#profile-web-page-url: https://github.com/NamiraNet/namira-core
+#announce: base64:4pqhIDUxMyDQv9GA0L7QstC10YDQtdC90L3Ri9GFINGB0LXRgNCy0LXRgNC+0LI=
+
 trojan://4646@173.245.58.57:8443?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.moket12807.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.moket12807.workers.dev&security=tls#🌍 ✨ NamiraNet | 🛡️ | 🌐 173.245.58.57 | Server 1
 vless://c0938841-1b6e-47a3-ad26-e795e0f7aeb2@chatgpt.com:2096?security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=cdn5.tehrancloud.net#🌍 ✨ NamiraNet | 🚀 | 🌐 chatgpt.com | Server 2
 trojan://Mojtaba-shieldheart@104.16.211.9:8443?sni=broken-bread-6ba6.shieldheart4.workers.dev&peer=broken-bread-6ba6.shieldheart4.workers.dev&security=tls#🌍 ✨ NamiraNet | 🛡️ | 🌐 104.16.211.9 | Server 3
